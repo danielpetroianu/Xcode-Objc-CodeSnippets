@@ -10,9 +10,12 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>self = [super init];
-if(nil == self) { return nil; }
+if(self)
+{
 
 &lt;#code#&gt;
+
+}
 
 return self;</string>
 	<key>IDECodeSnippetIdentifier</key>
