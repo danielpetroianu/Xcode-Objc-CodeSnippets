@@ -6,7 +6,11 @@
 	<string>mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
+		<string>ClassInterfaceVariables</string>
 		<string>ClassImplementation</string>
+		<string>Preprocessor</string>
+		<string>ClassInterfaceMethods</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>#pragma mark - &lt;#Section#&gt; -</string>
