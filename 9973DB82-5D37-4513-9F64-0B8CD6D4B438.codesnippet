@@ -12,9 +12,7 @@
 	<string>self = [super init];
 if(self)
 {
-
 &lt;#code#&gt;
-
 }
 
 return self;</string>
